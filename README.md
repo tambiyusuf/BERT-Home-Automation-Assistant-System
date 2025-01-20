@@ -46,7 +46,7 @@ To install the necessary Python dependencies for the project, run the following 
 
 ### model.pth
 
-**https://drive.google.com/file/d/1EOzG1wVFQm2FlAKR1fm3Qpg_GCu_yiB9/view?usp=drive_link on this link because I couldn't upload to github.
+- **https://drive.google.com/file/d/1EOzG1wVFQm2FlAKR1fm3Qpg_GCu_yiB9/view?usp=drive_link on this link because I couldn't upload to github.
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 ```bash
